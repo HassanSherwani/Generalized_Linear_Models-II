@@ -13,3 +13,13 @@ The GLM suite includes:
 - Ordinal regression
 - Negative Binomial regression
 - Tweedie distribution
+
+Content of notebook:
+
+Models being applied:
+
+- GLM Binomial
+- GLM Multi-nomial
+- GLM Poisson aka count 
+- GLM Gamma
+- GLM Tweedie 
